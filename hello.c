@@ -1,5 +1,5 @@
 // Hello World program
-
+/* Multi line comment */
 #include <stdio.h>
 
 int main(void)
